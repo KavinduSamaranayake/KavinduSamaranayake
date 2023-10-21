@@ -1,5 +1,9 @@
 
-![Profile Banner](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
+<div align="center">
+  <a href="https://1999azzar.github.io/KavinduSamaranayake/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
  
 <h1 align="center">Hi 👋, I'm Kavindu Samaranayake</h1>
 <h3 align="center">Passionate IT Student | Fullstack Web Developer on a Quest for Excellence</h3>
