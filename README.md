@@ -1,7 +1,7 @@
-![snake animation](https://github.com/<seu kavindusamaranayake>/<seu kavindusamaranayake>/blob/output/github-contribution-grid-snake2.svg)
+
 <div align="center">
   <a href="https://1999azzar.github.io/KavinduSamaranayake/">
-  
+  <img align="right" height="150" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"  />
 
 </div>
 
