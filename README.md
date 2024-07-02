@@ -1,7 +1,8 @@
 
 <div align="center">
   <a href="https://1999azzar.github.io/KavinduSamaranayake/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
        alt="snake" /></a>
 </div>
  
