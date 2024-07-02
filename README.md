@@ -1,4 +1,5 @@
- <img align="center" width="500" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"  />
+ <img align="center"  height ="140" width="100%" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"  />
+
 <div align="center">
    
   <a href="https://1999azzar.github.io/KavinduSamaranayake/">
