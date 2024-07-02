@@ -17,9 +17,9 @@
   
 - 🧑‍🎓 I’m an Undergraduate at **Saegis**
 
-- 🌱 I’m currently learning **NodeJs, React, Angular**
+- 🌱 I’m currently learning **NodeJs, React Js, Aws, Docker, Kubernates**
 
-- 💬 Ask me about **Java, HTML, CSS, PHP, JavaScript, Python, React**
+- 💬 Ask me about **Java, HTML, CSS, PHP, JavaScript, Python, React Js**
 
 - 📫 How to reach me **k.samaranayake0026@gmail.com**
 
