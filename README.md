@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img align="center" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"  />
+    <img align="right" height="130" width="500" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"  />
   <a href="https://1999azzar.github.io/KavinduSamaranayake/">
   
 
