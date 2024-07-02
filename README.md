@@ -1,4 +1,4 @@
- <img align="center"  height ="200" width="100%" src="https://th.bing.com/th/id/R.a856858ffeec8298bc278af3bcf1505c?rik=DOG6CnPSo3D8aw&riu=http%3a%2f%2fwww.stpatrickscollege.edu.pk%2fimages%2fOthers-pictures%2fcomputer.gif&ehk=EzZwF4aiOO%2feSH%2bKE%2b%2f1j4%2froRc%2fNhjvijrnS9I0hCM%3d&risl=&pid=ImgRaw&r=0"  />
+ <img align="center"  height ="200" width="100%" src="(https://th.bing.com/th/id/R.91b513350e4fc3e7ac634fbcca36fc25?rik=0286WUbThwDxng&pid=ImgRaw&r=0"  />
 
 <div align="center">
    
