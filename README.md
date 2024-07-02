@@ -1,8 +1,8 @@
-
+![snake animation](https://github.com/<seu kavindusamaranayake>/<seu kavindusamaranayake>/blob/output/github-contribution-grid-snake2.svg)
 <div align="center">
   <a href="https://1999azzar.github.io/KavinduSamaranayake/">
   
-![snake animation](https://github.com/<seu kavindusamaranayake>/<seu kavindusamaranayake>/blob/output/github-contribution-grid-snake2.svg)
+
 </div>
 
  
