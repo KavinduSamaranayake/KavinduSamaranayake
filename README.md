@@ -1,4 +1,4 @@
- <img align="center"  height ="200" width="100%" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"  />
+ <img align="center"   width="100%" src="[https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif](https://th.bing.com/th/id/R.91b513350e4fc3e7ac634fbcca36fc25?rik=0286WUbThwDxng&pid=ImgRaw&r=0)"  />
 
 <div align="center">
    
