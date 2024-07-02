@@ -1,7 +1,8 @@
 
 <div align="center">
+  <img align="center" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"  />
   <a href="https://1999azzar.github.io/KavinduSamaranayake/">
-  <img align="right" height="150" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"  />
+  
 
 </div>
 
