@@ -9,7 +9,7 @@
 
  
 <h1 align="center">Hi 👋, I'm Kavindu Samaranayake</h1>
-<h3 align="center">Passionate IT Student | Fullstack Developer </h3>
+<h3 align="center">Passionate IT Student | DevOps & Clouds </h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kavindusamaranayake&label=Profile%20views&color=0e75b6&style=flat" alt="kavindusamaranayake" /> </p>
