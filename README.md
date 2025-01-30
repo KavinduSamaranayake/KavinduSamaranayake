@@ -20,11 +20,11 @@
   
 - 🧑‍🎓 I’m an Undergraduate at **Saegis**
 
-- 🌱 I’m currently learning **NodeJs, React Js, Aws, Docker, Kubernates**
+- 🌱 I’m currently learning **Terraform, CI/CD, Aws, Docker, Kubernates**
 
-- 💬 Ask me about **Java, HTML, CSS, PHP, JavaScript, Python, React Js**
+- 💬 Ask me about **Docker, Jenkins, YAML, Linux, AWS**
 
-- 📫 How to reach me **k.samaranayake0026@gmail.com**
+- 📫 How to reach me **k.samaranayake7@gmail.com**
 
 - ⚡ Fun fact **Call me as Kavindu**
 
